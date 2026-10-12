@@ -1,10 +1,10 @@
-# 🧾 Invoice Studio (Offline Edition)
+# Invoice Studio (Offline Edition)
 
 A 100% offline, standalone Invoice Maker application. No internet connection, server, or database installation required.
 
 ---
 
-## 🚀 How to Open the App
+## How to Open the App
 
 You can open the application in any of the following ways:
 
@@ -21,7 +21,7 @@ You can open the application in any of the following ways:
 
 ---
 
-## ✨ Features & Enhancements
+## Features & Enhancements
 
 1. **100% Offline Standalone**
    - All PDF rendering engines (`libs/html2pdf.bundle.min.js`, `libs/jspdf.umd.min.js`) are bundled locally.
@@ -40,7 +40,7 @@ You can open the application in any of the following ways:
 4. **Dynamic Line Items**
    - Add as many items as needed.
    - Real-time row total calculations.
-   - 🗑️ Delete button for each line item.
+   - Delete button for each line item.
 
 5. **Financial Adjustments**
    - Simple & Professional modes.
@@ -53,13 +53,13 @@ You can open the application in any of the following ways:
 
 7. **Real-time Live Preview & High-Fidelity Output**
    - Split-screen interface: see the invoice update in real-time as you type.
-   - **📥 PDF Export**: Generates high-resolution PDF invoices locally.
-   - **🖨️ Print**: Formatted for standard A4 / Letter paper with clean print stylesheets.
+   - **PDF Export**: Generates high-resolution PDF invoices locally.
+   - **Print**: Formatted for standard A4 / Letter paper with clean print stylesheets.
 
 8. **Offline Storage & Invoice History**
    - **Auto-save draft**: Your current progress is saved in local browser storage so you never lose work on refresh.
-   - **💾 Save to History**: Save multiple invoices offline.
-   - **📂 History Drawer**: Re-open, view, or delete past invoices anytime.
+   - **Save to History**: Save multiple invoices offline.
+   - **History Drawer**: Re-open, view, or delete past invoices anytime.
 
 9. **Dark & Light Mode**
    - Seamless one-click dark mode toggle (with your preference remembered).
